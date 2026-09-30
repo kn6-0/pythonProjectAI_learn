@@ -17,5 +17,3 @@
 <a href="https://github.com/Alexander4409/pythonProjectAI_learn/archive/refs/heads/master.zip"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/download.svg" alt="Скачать" width="115"></a>
 <a href="https://github.com/Alexander4409/pythonProjectAI_learn/fork"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/fork.svg" alt="Форк" width="95"></a>
 </div>
-
-<details><summary>Нажми меня</summary>Скрытый текст!</details>
