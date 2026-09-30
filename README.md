@@ -2,34 +2,12 @@
 
 # Обучение УникУм
 
-Весь код с занятий.
-
 </div>
 
-## Выберите группу
-
-### ИИ — искусственный интеллект
+### Группа
 
 <div align="center">
-<a href="ИИ_71_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ii-71-kem.svg" alt="ИИ-71" width="125"></a>
 <a href="ИИ_72_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ii-72-kem.svg" alt="ИИ-72" width="125"></a>
-<a href="ИИ_81_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ii-81-kem.svg" alt="ИИ-81" width="125"></a>
-<a href="ИИ_82_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ii-82-kem.svg" alt="ИИ-82" width="125"></a>
-</div>
-
-### ИЭ — интеллектуальная электромеханика
-
-<div align="center">
-<a href="ИЭ_71_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ie-71-kem.svg" alt="ИЭ-71" width="125"></a>
-<a href="ИЭ_72_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ie-72-kem.svg" alt="ИЭ-72" width="125"></a>
-<a href="ИЭ_81_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ie-81-kem.svg" alt="ИЭ-81" width="125"></a>
-<a href="ИЭ_82_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ie-82-kem.svg" alt="ИЭ-82" width="125"></a>
-</div>
-
-### Онлайн-занятия
-
-<div align="center">
-<a href="ИИ_Вовлекай/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/vovlekai-online.svg" alt="Вовлекай" width="125"></a>
 </div>
 
 ## Быстрые действия
