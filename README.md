@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:green">Обучение УникУм</span>
+<span style="color:green">Обучение УникУм</span>
 
 </div>
 
