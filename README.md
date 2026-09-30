@@ -18,6 +18,6 @@
 <a href="https://github.com/Alexander4409/pythonProjectAI_learn/fork"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/fork.svg" alt="Форк" width="95"></a>
 </div>
 
-Текст со сноской[^1].
-
-[^1]: А вот и пояснение.
+- [x] сделано
+- [ ] не сделано
+- [ ] ~~выброшено~~
