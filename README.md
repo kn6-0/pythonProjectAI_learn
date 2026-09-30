@@ -18,4 +18,4 @@
 <a href="https://github.com/Alexander4409/pythonProjectAI_learn/fork"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/fork.svg" alt="Форк" width="95"></a>
 </div>
 
-$$ \colorbox{green}{\boxed{{\begin{matrix} 🌲 & ㅤ & ㅤ & 🗻 \\ ㅤ & \colorbox{green}{} & ㅤ & ⛰ \\ 🌻 & 🌳 & \colorbox{blue}{\phantom{🌍}} & 🌲 \\ 🗻 & ㅤ& \colorbox{blue}{\phantom{fgdfgd}} &ㅤ \end{matrix}}}} $$
+$$ \boxed{\begin{matrix} \color{red}\text{█} & \color{orange}\text{█} & \color{yellow}\text{█}  \\ \color{orange}\text{█} & \color{red}\text{█} & \color{orange}\text{█} \\ \color{yellow}\text{█} & \color{orange}\text{█} & \color{red}\text{█} \end{matrix}} $$
