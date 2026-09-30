@@ -1,16 +1,16 @@
 <div align="center">
 
-<span style="color:green">Обучение УникУм</span>
+# Обучение УникУм :trollface:
 
 </div>
 
-### Группа
+### Группа :trollface:
 
 <div align="center">
 <a href="ИИ_72_кем/README.md"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/ii-72-kem.svg" alt="ИИ-72" width="125"></a>
 </div>
 
-## Быстрые действия
+## Быстрые действия :trollface:
 
 <div align="center">
 <a href="https://github.com/Alexander4409/"><img src="https://raw.githubusercontent.com/SayGGGo/pythonProjectAI_learn/ed5b85e1c8e11f050640527250903af0fbb55ab5/.github/assets/buttons/teacher.svg" alt="Преподаватель" width="145"></a>
